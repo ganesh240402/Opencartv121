@@ -1,0 +1,16 @@
+2025-03-18 11:05:17.654 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Users\ganes\eclipse-workspace\selenium Workspace3\Framework_OpenCartV121\master.xml"
+2025-03-18 11:05:22.303 [main] INFO  t.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-03-18 11:05:22.492 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-03-18 11:05:23.160 [main] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-03-18 11:05:24.333 [main] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-03-18 11:05:24.395 [main] INFO  t.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ****
+2025-03-18 11:05:28.670 [main] INFO  t.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-03-18 11:05:30.175 [main] INFO  t.TC002_LoginTest - **** FinishedTC002_LoginTest****
+2025-03-18 11:06:22.750 [main] DEBUG o.t.TestNG - suiteXmlPath: "C:\Users\ganes\eclipse-workspace\selenium Workspace3\Framework_OpenCartV121\master.xml"
+2025-03-18 11:06:28.763 [main] INFO  t.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+2025-03-18 11:06:28.933 [main] INFO  t.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-03-18 11:06:30.015 [main] INFO  t.TC001_AccountRegistrationTest - Providing customer details...
+2025-03-18 11:06:31.357 [main] INFO  t.TC001_AccountRegistrationTest - Validating expected message
+2025-03-18 11:06:31.425 [main] INFO  t.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ****
+2025-03-18 11:06:35.179 [main] INFO  t.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+2025-03-18 11:06:36.450 [main] INFO  t.TC002_LoginTest - **** FinishedTC002_LoginTest****
